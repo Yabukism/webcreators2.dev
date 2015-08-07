@@ -1,0 +1,19 @@
+/*
+Theme Name:   alterna9 Child
+Theme URI:    http://themefocus.co/alterna/
+Description:  A Child-Theme based on Alterna of powerful and clean theme.Designed by <a href="http://themefocus.co">ThemeFocus</a>
+Author:       ThemeFocus
+Author URI:   http://themefocus.co
+Template:     alterna
+Version:      1.0.0
+License:      GNU General Public License v2.0 PHP under GNU General Public License, JS and CSS under ThemeForest License Terms
+License URI:  http://themeforest.net/licenses/regular_extended
+Tags:         black, green, white, orange, red
+Text Domain:  alterna-child
+*/
+
+@import url("../alterna/style.css");
+/* Home */
+.alterna-service-entry-content {
+  text-align: left;
+}
